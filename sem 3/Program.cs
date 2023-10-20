@@ -90,3 +90,5 @@ void EachNumberInInt(int nr)
 
 EachNumberInInt(123456);
 EachNumberInInt(8910);
+
+// GLAD GUBBE :)
